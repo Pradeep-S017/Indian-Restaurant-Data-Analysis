@@ -1,5 +1,6 @@
+![Screenshot 2024-11-20 150414](https://github.com/user-attachments/assets/07c293b4-c714-456f-8d0d-f2c2f8d96fda)
 # Indian-Restaurant-Data-Analysis
-Indian restaurant data analysis examines customer preferences, sales trends, menu popularity, and reviews. It uses insights to improve operations, identify popular dishes, optimize pricing, and enhance customer sati![Screenshot 2024-11-20 150414](https://github.com/user-attachments/assets/07c293b4-c714-456f-8d0d-f2c2f8d96fda)
+Indian restaurant data analysis examines customer preferences, sales trends, menu popularity, and reviews. It uses insights to improve operations, identify popular dishes, optimize pricing, and enhance customer
 sfaction, often through visualizations, sentiment analysis, and performance metrics.
 **Indian Restaurant Data Analysis** involves examining data related to Indian restaurants to gain insights into their operations, customer preferences, and overall performance. The analysis can cover various aspects, such as location, menu offerings, pricing, customer feedback, and market trends. Here’s a detailed description of what such an analysis might include:
 
